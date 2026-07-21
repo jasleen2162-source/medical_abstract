@@ -1,0 +1,17 @@
+tensorflow==2.19.0
+
+tensorflow-metal
+
+numpy
+
+pandas
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
+streamlit
+
+joblib
