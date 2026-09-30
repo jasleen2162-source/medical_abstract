@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 
 from src.demo import predict_abstract
